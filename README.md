@@ -17,5 +17,8 @@ https://drive.google.com/file/d/1RltRKmrXN0DdA9m0dHEDx5lnRLh2e10l/view?usp=drive
 
 <img width="1183" height="407" alt="image" src="https://github.com/user-attachments/assets/35507e31-87df-4b42-8eef-024c9bd17726" />
 
+Referencia de DATASET y Codigos Fuente 
+
+https://www.kaggle.com/datasets/imbikramsaha/caltech-101/data
 
 <img width="899" height="300" alt="image" src="https://github.com/user-attachments/assets/49e57e4c-a8d6-4962-8b69-f526d67bf82f" />
